@@ -6,14 +6,10 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/DevCouty/courses">
   
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+  <a href="https://github.com/DevCouty/courses/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DevCouty/courses">
   </a>
-    
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/DevCouty/courses/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/DevCouty/courses?style=social">
-  </a>
+
 </p>
 
 ## udemy
