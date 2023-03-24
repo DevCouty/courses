@@ -1,6 +1,4 @@
 # courses
-### Here we have all source codes created when I took some courses
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DevCouty/courses?color=%2304D361">
 
@@ -11,6 +9,8 @@
   </a>
 
 </p>
+##### Here we have all source codes created when I took some courses
 
 ## udemy
-<a href="https://www.udemy.com/course/intro_python">intro_python - Introdução à linguagem Python</a>
+
+[intro_python - Introdução à linguagem Python](https://www.udemy.com/course/intro_python)
